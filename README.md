@@ -12,12 +12,9 @@
 1. Run `npm test`
 
 ### Test Result
-![Test Result](https://prnt.sc/xOZpTU89zWVE)
+![Test Result](https://github.com/bagusvalentinoo/node-js-typescript-fizzbuzz-palindrome/blob/master/test-results/test-result.jpg)
 
 ### Test Coverage Result
-![Test Coverage Result](https://prnt.sc/xOZq1Q)
+![Test Coverage Result](https://raw.githubusercontent.com/bagusvalentinoo/node-js-typescript-fizzbuzz-palindrome/master/test-results/coverage/test-coverage-result.jpg)
 
-
-
-
-
+See Detail: /test-results/coverage/lcov-report/index.html

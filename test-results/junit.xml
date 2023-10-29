@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" errors="0" time="3.884">
+  <testsuite name="Test FizzBuzz Function" errors="0" failures="0" skipped="0" timestamp="2023-10-29T15:32:12" time="3.361" tests="4">
+    <testcase classname="Test FizzBuzz Function returns Fizz when the number is divisible by 3" name="Test FizzBuzz Function returns Fizz when the number is divisible by 3" time="0.007">
+    </testcase>
+    <testcase classname="Test FizzBuzz Function returns Buzz when the number is divisible by 5" name="Test FizzBuzz Function returns Buzz when the number is divisible by 5" time="0.001">
+    </testcase>
+    <testcase classname="Test FizzBuzz Function returns FizzBuzz when the number is divisible by both 3 and 5" name="Test FizzBuzz Function returns FizzBuzz when the number is divisible by both 3 and 5" time="0">
+    </testcase>
+    <testcase classname="Test FizzBuzz Function returns the number itself when not divisible by 3 or 5" name="Test FizzBuzz Function returns the number itself when not divisible by 3 or 5" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="palindrome" errors="0" failures="0" skipped="0" timestamp="2023-10-29T15:32:12" time="3.367" tests="2">
+    <testcase classname="palindrome should return true for &quot;racecar&quot;" name="palindrome should return true for &quot;racecar&quot;" time="0.006">
+    </testcase>
+    <testcase classname="palindrome should return false for &quot;hello&quot;" name="palindrome should return false for &quot;hello&quot;" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
